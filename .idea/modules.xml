@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Competion_Doubt/Competion_Doubt.iml" filepath="$PROJECT_DIR$/../Competion_Doubt/Competion_Doubt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Competition_01/Competition_01.iml" filepath="$PROJECT_DIR$/../Competition_01/Competition_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Crux_Assignment_2022/Crux_Assignment_2022.iml" filepath="$PROJECT_DIR$/../Crux_Assignment_2022/Crux_Assignment_2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DSA_I/DSA_I.iml" filepath="$PROJECT_DIR$/../DSA_I/DSA_I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DS_Algo_Open_Source.iml" filepath="$PROJECT_DIR$/DS_Algo_Open_Source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java_Learning_PartII/Java_Learning_PartII.iml" filepath="$PROJECT_DIR$/../Java_Learning_PartII/Java_Learning_PartII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TimBuchalka/TimBuchalka.iml" filepath="$PROJECT_DIR$/../TimBuchalka/TimBuchalka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TimBuchalkaStudy/TimBuchalkaStudy.iml" filepath="$PROJECT_DIR$/../TimBuchalkaStudy/TimBuchalkaStudy.iml" />
+    </modules>
+  </component>
+</project>
